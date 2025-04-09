@@ -1,0 +1,32 @@
+/* estilo.css */
+
+/* Estilo personalizado para títulos */
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Imagem do café */
+img {
+    border: 2px solid #ccc; /* Sugestão: trocar cor do contorno */
+}
+
+/* Botão personalizado */
+.btn-primary {
+    background-color: #6f4e37; /* Cor de café */
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #5a3b28;
+}
+
+/* Rodapé */
+footer {
+    font-size: 0.9rem;
+}
+
+/* Sugestão de melhoria futura:
+   - Adicionar animações suaves com @keyframes
+   - Usar variáveis CSS para cores principais
+   - Criar tema claro/escuro com toggle
+*/
