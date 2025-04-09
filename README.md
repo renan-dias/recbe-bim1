@@ -28,7 +28,7 @@
 Abra seu terminal e digite os seguintes comandos:
 
 ```bash
-git clone https://github.com/seu-usuario/landingpage-cafeteria.git
+git clone https://github.com/renan-dias/recbe-bim1.git
 cd landingpage-cafeteria
 ```
 
